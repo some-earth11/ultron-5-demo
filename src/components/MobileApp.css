@@ -1,0 +1,98 @@
+/* .app-container{
+    padding: 0 20px;
+    height: 570px;
+    overflow: hidden;
+    flex-direction: column;
+}
+
+.content-container{
+    max-width:1200px;
+    min-width: 1200px;
+    position:relative;
+    margin:auto;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    height:100%;
+}
+.catch-phrase{
+    font-size:40px;
+    font-weight: 600;
+    width:300px;
+    line-height:1;
+    letter-spacing: -.45px;
+}
+.description{
+    font-size:20px;
+    width:400px;
+    font-weight: 300;
+    padding-top:20px;
+    padding-bottom: 60px;
+    color: rgb(70, 70, 70);
+    line-height: 1.2;
+}
+
+.app-img-google{
+    border-style: none;
+    cursor: pointer;
+    margin-right: 20px;
+    height: 30%;
+    width: 30%;
+}
+.app-img-apple{
+    border-style: none;
+    cursor: pointer;
+    margin-right: 20px;
+    height: 30%;
+    width: 30%;
+}
+
+.app-download{
+    flex-direction: column;
+    max-width: 50%;
+}
+
+.img-1{
+    height: 489;
+    width: 384;
+    top: 0;
+    right: 300px;
+} */
+.app-container{
+    display: flex;
+}
+.img-container{
+    width: 80%;
+    align-items: left;
+}
+/* .content-container{
+    width: 50%;
+    align-items: right;
+} */
+.content-container {
+    max-width: 50%;
+    text-align: center;
+    justify-content: center;
+    display: flexbox;
+    padding-bottom: 30px;
+}
+
+
+
+/* h3{
+    font-weight: lighter;
+} */
+
+.app-button{
+    height: 150px;
+    width: 250px;
+    /* padding-top: 50px; */
+}
+h2{
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+p{
+    padding-bottom: 60px;
+}

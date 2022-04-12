@@ -1,0 +1,23 @@
+.footer-container{
+    background-color:#242424;
+    padding: 29px 0;
+    display: flex;
+    color:white;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    flex-grow: 1;
+    /* position: fixed; */
+}
+
+.footer-logo{
+    width: 242px;;
+}
+
+.footer-copyright{
+    width: 242px;
+}
+
+.footer-contact{
+    width: 242px;
+}
