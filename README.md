@@ -31,7 +31,7 @@ We used, Flutter to provide the most user friendly experience to our mobile  app
 
 <img src="https://github.com/AishwaryaPai20/ultron/blob/main/assets/videos/working.gif" width="900" height="500" />
 
-[Check out our Website Repository on Github](https://github.com/21satvik/ultron)
+[Check out our App Repository on Github](https://github.com/21satvik/ultron)
 
 ## ScreenShots of Our App
 
