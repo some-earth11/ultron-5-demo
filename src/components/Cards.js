@@ -2,6 +2,7 @@ import React from 'react'
 import CardItem from './CardItem';  
 import {Card, Button} from "react-bootstrap";
 import "/node_modules/bootstrap/dist/css/bootstrap.min.css";
+import './Cards.css'
 
 
 function Cards() {
