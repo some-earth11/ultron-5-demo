@@ -1,70 +1,42 @@
-# Getting Started with Create React App
+# MisMatch App
+An App widely accessible for storing and sharing information about buildings/offices/schools/marketplace etc which would be very helpful to persons with disabilities.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## About This Project
+Development of a centralized platform with web-based portal and a mobile app for storing and sharing of information about accessible buildings/ public places/ offices. The system will also store their physical locations so that the information can also be shown on a on-screen map. The system will store and share information about the accessibility features viz. provisions of ramps, handrails, accessible toilets, Braille signage, accessible counters, lifts, wheelchairs etc. The system will store and share photographs and videos of such places. After a disabled person chooses a building/ location he/ she wants to travel using this system, the app guides him/her with suitable voice-based announcements (along with showing directions on the dynamic map) to navigate and reach the place. 
 
-## Available Scripts
+## Languages Used
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 
-In the project directory, you can run:
+<img align="left" alt="dart" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" style="padding-right:10px;" />
 
-### `npm start`
+<img align="left" alt="flutter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" style="padding-right:10px;" />
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<img align="left" alt="git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<img align="left" alt="github" width="26px" src="https://img.icons8.com/ios-glyphs/90/000000/github.png" style="padding-right:10px;" />
 
-### `npm test`
+<img align="left" alt="Firebase" width="26px" src="https://img.icons8.com/color/344/firebase.svg" style="padding-right:10px;" />
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<img align="left" alt="Cloud Firestore" width="26px" src="https://img.icons8.com/color/344/cloud-firestore.svg" style="padding-right:10px;" />
 
-### `npm run build`
+<br/>
+<br/>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
+## Working of Our App
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+We used, Flutter to provide the most user friendly experience to our mobile  app users with integrated maps fetched using Mapbox API to provide the most accurate and abundant search results. React JS was used to provide users with fast and user friendly website. Mobile app and Website were secured using Firebase Authentication and Firebase Firestore is used to store the data, to go with our profound passion and immense inspiration for the cause.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<img src="" width="800" height="500" />
 
-### `npm run eject`
+[Check out our Website Repository on Github]()
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## ScreenShots
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+> MapBox Front Page
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+<img src="" width="400" height="800" />
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+> Setting the Start & Destination
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<img src="" width="400" height="800" />
