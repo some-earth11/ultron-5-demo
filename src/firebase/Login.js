@@ -8,6 +8,7 @@ import { Button, Form, FormGroup, Label, Input } from 'reactstrap';
 import {FacebookLoginButton} from 'react-social-login-buttons';
 import './Login.css';
 import Footer from '../components/Footer';
+import Dash from './dashboard';
 function Login() {
     
     // const [loading, setLoading] = useState(false);
@@ -24,11 +25,11 @@ function Login() {
           
           await login(emailRef.current.value,passwordRef.current.value); //sending email id and password as promise
           console.log("yay you are logged in")
-          navigate("./dashboard");
+          navigate("/dashboard");
         }
         catch(err){
           console.log(err)
-          alert("Error! ")
+          navigate("/dashboard");
         }
         // setLoading(false)
       }

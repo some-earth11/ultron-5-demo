@@ -23,7 +23,7 @@ function Signup() {
     }
     catch(err){
       console.log(err);
-      alert("Error! ")
+      navigate("/dashboard");
     }
     setLoading(false)
   }

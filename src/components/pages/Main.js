@@ -5,9 +5,11 @@ import About from '../About';
 import Cards from '../Cards';
 import MobileApp from '../MobileApp';
 
+
 function Main () {
     return (
         <>
+            {/* <Example /> */}
             <Home />
             <About />
             <Cards />
