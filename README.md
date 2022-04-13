@@ -25,13 +25,13 @@ Development of a centralized platform with web-based portal and a mobile app for
 <br/>
 
 ---
-## Working of Our App
+## Working of Our Product
 
 We used, Flutter to provide the most user friendly experience to our mobile  app users with integrated maps fetched using Mapbox API to provide the most accurate and abundant search results. React JS was used to provide users with fast and user friendly website. Mobile app and Website were secured using Firebase Authentication and Firebase Firestore is used to store the data, to go with our profound passion and immense inspiration for the cause.
 
 <img src="https://github.com/AishwaryaPai20/ultron/blob/main/assets/videos/working.gif" width="900" height="500" />
 
-[Check out our Website Repository on Github]()
+[Check out our Website Repository on Github](https://github.com/21satvik/ultron)
 
 ## ScreenShots of Our App
 
@@ -63,7 +63,7 @@ We used, Flutter to provide the most user friendly experience to our mobile  app
 
 > Authentication Page
 
-<img src="https://github.com/AishwaryaPai20/ultron/blob/main/assets/images/1.jpeg" width="800" height="500" />
+<img src="https://github.com/AishwaryaPai20/ultron/blob/main/assets/images/w1.jpeg" height="500" />
 
 > Dashboard
 
